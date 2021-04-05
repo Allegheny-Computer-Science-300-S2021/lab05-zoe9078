@@ -24,9 +24,9 @@ a)
 
 
 b)
-- Match or Mismatch:               #TODO
-- Left entry calculation:          #TODO
-- Above entry calculation:         #TODO
+- Match or Mismatch: T = T is a match
+- Left entry calculation: -2 + 1 = -1
+- Above entry calculation: -2 +1 = -1
 - Diagonal entry calculation:      #TODO
 - Max score: 1 from the Diagonal   #TODO
 
